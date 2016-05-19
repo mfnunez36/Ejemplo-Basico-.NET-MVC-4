@@ -1,0 +1,33 @@
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\MVC4 Basico.dll.config
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\MVC4 Basico.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\MVC4 Basico.pdb
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\Antlr3.Runtime.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\EntityFramework.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\Microsoft.Web.Infrastructure.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\Newtonsoft.Json.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.Mvc.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.Optimization.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.Providers.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.Razor.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.WebPages.Deployment.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.WebPages.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.WebPages.Razor.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\WebGrease.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\EntityFramework.xml
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\Newtonsoft.Json.xml
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.Mvc.xml
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.Razor.xml
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.WebPages.xml
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.WebPages.Deployment.xml
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\System.Web.WebPages.Razor.xml
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\es\EntityFramework.resources.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\es\System.Web.Mvc.resources.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\es\System.Web.Optimization.resources.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\es\System.Web.Providers.resources.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\es\System.Web.Razor.resources.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\es\System.Web.WebPages.resources.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\obj\Debug\MVC4 Basico.dll
+c:\users\prymomax\documents\visual studio 2013\Projects\MVC 4 Partimos con Basico\MVC4 Basico\obj\Debug\MVC4 Basico.pdb

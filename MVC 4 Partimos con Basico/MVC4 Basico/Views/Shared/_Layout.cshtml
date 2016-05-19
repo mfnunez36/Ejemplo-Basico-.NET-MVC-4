@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="es-cl">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Clinica Pacientes Enfermedades</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    (va el logo)
+    @Html.Partial("Partials/_NavBar")
+    
+
+
+
+    <div>
+        (Barra Nav)
+        @Html.Partial("Partials/_LeftSidebar")
+     
+
+    </div>
+
+    <div>
+        (DIV con el contenido de las paginas...)
+        @RenderBody()
+    </div>
+
+    <br />
+    (Footer)
+    @Html.Partial("Partials/_Footer")
+    
+    
+
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
